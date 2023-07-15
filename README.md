@@ -16,5 +16,5 @@
 
 ## 연락처
 
-- 이메일 (Email): []
+- 이메일 (Email): -
 - GitHub: [HyunJaeGit](https://github.com/HyunJaeGit)
