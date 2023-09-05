@@ -1,15 +1,15 @@
 #  HyunJaeGit 🐱
 
-다양한 개발 언어와 기술을 배우는 중
+불편하면 직접 개발하는 개발자
 
 ## 언어 및 기술 스택
 
-- [ Back-end ]
+ [ Back-end ]
 - 자바 ☕️
 - JSP 🌐
 - SQL 📚
 
-- [ Front-end ]
+ [ Front-end ]
 - HTML 🌐
 - CSS 🎨
 - Javascript 🚀
