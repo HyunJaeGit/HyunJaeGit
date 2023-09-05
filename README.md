@@ -14,6 +14,9 @@
 - CSS 🎨
 - Javascript 🚀
 
+ [ Sub ]
+- C 💻, Python 🐍
+  
 ## 프로젝트
 - 준비중
 
