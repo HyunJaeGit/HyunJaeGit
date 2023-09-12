@@ -1,6 +1,7 @@
 #  HyunJaeGit 🐱
 
-돈되는 DB만 커밋하는 Java 개발자
+돈되는 DB를 COMMIT하는 Java 개발자입니다.
+
 
 ## 언어 및 기술 스택
 
