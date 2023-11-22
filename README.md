@@ -1,6 +1,6 @@
 #  HyunJaeGit 🐱
 
-돈되는 DB를 COMMIT하는 Java 개발자입니다.
+Java 웹 개발자 HJ입니다.
 
 
 ## 언어 및 기술 스택
