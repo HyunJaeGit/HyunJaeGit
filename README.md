@@ -10,6 +10,12 @@ JSP
 RESTful API(JSON)
 Mybatis
 
+[ Cloud ] ☁️
+AWS (EC2, RDS, S3, Route53, Elastic IP, VPC, IAM)
+
+[ DataBase ] 💻
+Oracle
+
 [ Front-end ] 🎨
 HTML5
 CSS3
@@ -17,12 +23,6 @@ Javascript
 
 [ Server ] 🌐
 Apache Tomcat
-
-[ DataBase ] 💻
-Oracle
-
-[ Cloud ] ☁️
-AWS (EC2, RDS, S3)
 
 [ OS ] 💻
 Linux (OracleLinux7, CentOS, Ubuntu)
