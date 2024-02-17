@@ -38,5 +38,5 @@ Python
 ## 연락처
 
 - 이메일 (Email): guswo1118@naver.com
-- 포트폴리오 블로그 : http://www.codemonk.store/portfolio/
+- 블로그 : https://blog.naver.com/javapyc
 - GitHub: [HyunJaeGit](https://github.com/HyunJaeGit)
