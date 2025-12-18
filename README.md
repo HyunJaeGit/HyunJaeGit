@@ -32,16 +32,16 @@ Linux (Oracle Linux7, CentOS, Ubuntu)
 [ 프로젝트 ]
 - MZ project (맛집 정보 웹 어플리케이션)        - 2023-09 ~ 2024-0
   
-MyBatis를 활용한 DB 연동 (Oracle)
-JSP 기반 화면과 서버 로직 연동
-AWS EC2, RDS 환경에 서비스 배포 경험
+  MyBatis를 활용한 DB 연동 (Oracle)
+  JSP 기반 화면과 서버 로직 연동
+  AWS EC2, RDS 환경에 서비스 배포 경험
 
 - AWS Security project (AWS 보안 설계 프로젝트) - 2025-12
   
-IAM 사용자 및 역할 기반 권한 설계
-VPC 네트워크 분리 및 보안 그룹 구성
-퍼블릭 / 프라이빗 서브넷 구조 설계
-AWS 인프라 보안 아키텍처 이해 및 문서화
+  IAM 사용자 및 역할 기반 권한 설계
+  VPC 네트워크 분리 및 보안 그룹 구성
+  퍼블릭 / 프라이빗 서브넷 구조 설계
+  AWS 인프라 보안 아키텍처 이해 및 문서화
 
 [ 연락처 ]
 
