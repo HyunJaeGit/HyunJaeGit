@@ -6,16 +6,16 @@ AWS 환경에서 보안 표준을 고려한 서비스를 설계·배포한 경�
 ## Technic 언어 및 기술 스택
 
 [ Back-end ] ☕️
-Java
-JSP
-Mybatis
-Legacy Spring Framework
-RESTful api
-Spring Boot
+Java</br>
+JSP</br>
+Mybatis</br>
+Legacy Spring Framework</br>
+RESTful api</br>
+Spring Boot</br>
 
 
 [ Cloud ] ☁️
-AWS (EC2, RDS, S3, VPC, IAM )
+AWS (EC2, RDS, S3, VPC, IAM...)
 
 [ DataBase ] 💻
 Oracle, MySQL
