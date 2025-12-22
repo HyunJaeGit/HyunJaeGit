@@ -5,27 +5,19 @@ AWS 환경에서 보안 표준을 고려한 서비스를 설계·배포한 경�
 
 ## Technic 언어 및 기술 스택
 
-[ Back-end ] ☕️</br>
-Java</br>
-JSP</br>
-Mybatis</br>
-Legacy Spring Framework</br>
-RESTful api</br>
-Spring Boot</br>
+### [Back-end & DataBase]  
+Language & Framework: Java 21, Spring Boot 3.4, Spring Framework (Legacy), JSP
 
+Data Access: MyBatis, JPA (Hibernate)
 
-[ Cloud ] ☁️
-AWS (EC2, RDS, S3, VPC, IAM...)
+Database: MySQL 8.0, Oracle Database
 
-[ DataBase ] 💻
-Oracle, MySQL
+### [Cloud & Infrastructure]  
+Cloud Service: AWS (VPC, EC2, RDS, S3, IAM, Elastic Beanstalk)
 
-[ Front-end ] 🎨
-HTML5, CSS3
-Javascript
+Container & DevOps: Docker, GitHub Actions (CI/CD)
 
-[ OS ] 💻
-Linux (Oracle Linux7, CentOS, Ubuntu)
+OS & Environment: Amazon Linux 2023, Ubuntu, CentOS, Windows (Git Bash)
   
 [ 프로젝트 ]
 - MZ project (맛집 정보 웹 어플리케이션)        - 2023-09 ~ 2024-0
@@ -44,5 +36,3 @@ Linux (Oracle Linux7, CentOS, Ubuntu)
 [ 연락처 ]
 
 - 이메일 (Email): guswo1118@gmail.com
-- 블로그 : https://blog.naver.com/javapyc
-- GitHub: [HyunJaeGit](https://github.com/HyunJaeGit)
