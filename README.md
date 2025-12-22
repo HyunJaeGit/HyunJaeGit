@@ -5,23 +5,30 @@ AWS 환경에서 보안 표준을 고려한 서비스를 설계·배포한 경�
 
 ## Technic 언어 및 기술 스택
 
-[ Language & Framework ]
+[ Language & Framework ]  
 
 Java 21  
+
 Spring Boot 3.4 / Spring Framework  
-MyBatis / JPA (Hibernate)
+
+MyBatis / JPA (Hibernate)  
+
 JSP  
 
-[ Infrastructure ]
+[ Infrastructure ]  
 
-AWS (VPC, EC2, RDS, S3, IAM)
-Docker
-GitHub Actions (CI/CD)
+AWS (VPC, EC2, RDS, S3, IAM)  
 
-[ Database & OS ]
+Docker  
 
-MySQL / Oracle Database
-Amazon Linux 2023 / Ubuntu
+GitHub Actions (CI/CD)  
+
+[ Database & OS ]  
+
+MySQL / Oracle Database  
+
+Amazon Linux 2023 / Ubuntu  
+
   
 [ 프로젝트 ]
 - MZ project (맛집 정보 웹 어플리케이션)        - 2023-09 ~ 2024-0
