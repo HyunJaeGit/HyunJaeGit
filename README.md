@@ -6,27 +6,18 @@ AWS 환경에서 보안 표준을 고려한 서비스를 설계·배포한 경�
 ## Technic 언어 및 기술 스택
 
 [ Language & Framework ]  
-
 Java 21  
-
 Spring Boot 3.4 / Spring Framework  
-
 MyBatis / JPA (Hibernate)  
-
 JSP  
 
 [ Infrastructure ]  
-
 AWS (VPC, EC2, RDS, S3, IAM)  
-
 Docker  
-
 GitHub Actions (CI/CD)  
 
 [ Database & OS ]  
-
 MySQL / Oracle Database  
-
 Amazon Linux 2023 / Ubuntu  
 
   
