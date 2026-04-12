@@ -47,4 +47,4 @@
 
 ### 📧 Contact & More
 * **Email:** [guswo1118@gmail.com](mailto:guswo1118@gmail.com)
-* **TMI:** Legacy 환경 분석부터 Modern 기술(Java 21) 도입까지 폭넓은 스펙트럼을 보유하고 있습니다.
+* **TMI:** Legacy 환경에서 개발한 경험부터 최신 기술까지 많은 경험을 만들고 있습니다.
