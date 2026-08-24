@@ -1,14 +1,12 @@
-# GitHub Profile
-
-# 프로필
+# 안녕하세요, 권현재입니다.
 
 Java / Spring 기반으로 백엔드 개발을 하고 있습니다.
 
-웹 개발자 교육을 시작으로 팀 프로젝트와 개인 프로젝트를 진행했고,
+웹 개발 교육을 시작으로 팀 프로젝트와 개인 프로젝트를 진행했고,
 Spring Boot, DB, AWS, Docker 등을 직접 사용해보며 개발 경험을 쌓아왔습니다.
 
-최근에는 단순히 기능을 구현하는 것보다
-AI 환경, DB 구조, 배포 환경, 운영 과정에서 생길 수 있는 문제까지 같이 생각하면서 프로젝트를 만들고 있습니다.
+최근에는 단순히 기능을 구현하는 데서 끝내기보다
+DB 구조, 인증, 배포 환경과 운영 과정에서 생길 수 있는 문제까지 같이 생각하며 프로젝트를 만들고 있습니다.
 
 **Portfolio**
 https://hyunjaegit.github.io/portfoliopdf/
@@ -47,46 +45,56 @@ https://hyunjaegit.github.io/portfoliopdf/
 
 ## Projects
 
-### Aura3D
+### [Aura3D](https://github.com/HyunJaeGit/Aura3D)
 
-서버 상태를 주기적으로 확인하고, 이상이 발생했을 때 AI를 이용해 원인을 분석하는 서버 모니터링 프로젝트입니다.
+서버 상태를 주기적으로 확인하고, 상태 변화가 발생했을 때 Gemini API를 이용해 원인을 분석하는 서버 모니터링 프로젝트입니다.
 
-* Java 21 Virtual Threads 기반 서버 상태 체크
-* Spring Boot REST API 구현
-* JPA / MySQL 기반 데이터 관리
+* Java 21 Virtual Threads 기반 서버 상태 확인
+* Spring Boot / JPA / MySQL
 * Gemini API 연동
-* 서버 상태가 변경된 경우에만 AI 분석 요청
-* Docker 기반 실행 환경 구성
+* 상태 변화 기반 AI 호출 제어
+* React Three Fiber 기반 3D 상태 표현
 
-### AWS Infrastructure
+### [Dokhak Master](https://github.com/HyunJaeGit/dokhakmaster)
 
-AWS 환경에서 웹 애플리케이션을 배포하면서 네트워크와 배포 구조를 직접 구성해본 프로젝트입니다.
+직접 등록한 문제로 모의고사를 만들고 CBT 응시와 오답 학습을 할 수 있도록 만든 개인 학습 서비스입니다.
 
-* VPC 및 Public / Private Subnet 구성
-* EC2 / RDS 기반 애플리케이션 환경 구축
-* IAM 사용자 및 역할 권한 설정
-* Security Group / NACL 접근 제어
-* GitHub Actions 기반 배포 자동화
+* Java 21 / Spring Boot 3.5
+* React / TypeScript
+* MySQL / JPA / Flyway
+* 서버 세션 기반 인증
+* CBT 응시 및 자동 채점
+* 오답노트 및 재시험 기능
+
+### [AWS CI/CD & Infrastructure](https://github.com/HyunJaeGit/aws-security)
+
+Spring Boot 애플리케이션을 AWS 환경에 배포하면서 네트워크와 CI/CD 구조를 구성한 프로젝트입니다.
+
+* AWS VPC / EC2 / RDS
+* Security Group 기반 접근 제어
+* Docker
+* GitHub Actions
+* Docker Hub → EC2 자동 배포
 
 ### MZ Project
 
 맛집 검색과 지도 기능을 구현한 4인 팀 웹 프로젝트입니다.
 
-* Spring MVC / MyBatis 기반 웹 애플리케이션 개발
-* Oracle Database 연동
-* JSP / JSTL 화면 구성
-* Kakao Map API 기반 위치 기능 구현
-* AWS EC2 / RDS / S3 환경 배포
+* Spring MVC / MyBatis
+* Oracle Database
+* JSP / JSTL
+* Kakao Map API
+* AWS EC2 / RDS / S3
 * 팀장으로 일정 및 역할 관리
 
 ---
 
 ## What I'm working on
 
-최근에는 Spring Boot 기반 개인 프로젝트를 계속 만들고 있습니다.
+현재는 기존 프로젝트를 다시 살펴보면서
+코드 구조, DB 설계, 인증, 배포 환경처럼 부족했던 부분을 계속 수정하고 있습니다.
 
-기존 프로젝트도 다시 살펴보면서
-코드 구조, DB 설계, 인증, 배포 환경처럼 부족하다고 느꼈던 부분을 수정하고 보완하고 있습니다.
+새로운 기능을 추가하는 것뿐 아니라 기존에 만든 코드가 왜 그렇게 동작하는지 다시 확인하고 개선하는 과정도 같이 진행하고 있습니다.
 
 ---
 
