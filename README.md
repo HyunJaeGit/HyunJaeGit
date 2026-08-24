@@ -1,6 +1,6 @@
-# GitHub Profile README
+# GitHub Profile
 
-# 안녕하세요.
+# 프로필
 
 Java / Spring 기반으로 백엔드 개발을 하고 있습니다.
 
