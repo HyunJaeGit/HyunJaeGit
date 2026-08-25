@@ -8,7 +8,7 @@ Spring Boot, DB, AWS, Docker 등을 직접 사용해보며 개발 경험을 쌓�
 최근에는 단순히 기능을 구현하는 데서 끝내기보다
 DB 구조, 인증, 배포 환경과 운영 과정에서 생길 수 있는 문제까지 같이 생각하며 프로젝트를 만들고 있습니다.
 
-**Portfolio**
+**Portfolio**  
 https://hyunjaegit.github.io/portfoliopdf/
 
 ---
@@ -55,6 +55,17 @@ https://hyunjaegit.github.io/portfoliopdf/
 * 상태 변화 기반 AI 호출 제어
 * React Three Fiber 기반 3D 상태 표현
 
+### [MZ Project](https://github.com/HyunJaeGit/MZproject)
+
+맛집 검색과 지도 기능을 구현한 4인 팀 웹 프로젝트입니다.
+
+* Spring MVC / MyBatis
+* Oracle Database
+* JSP / JSTL
+* Kakao Map API
+* AWS EC2 / RDS / S3
+* 팀장으로 일정 및 역할 관리
+
 ### [Dokhak Master](https://github.com/HyunJaeGit/dokhakmaster)
 
 직접 등록한 문제로 모의고사를 만들고 CBT 응시와 오답 학습을 할 수 있도록 만든 개인 학습 서비스입니다.
@@ -76,17 +87,6 @@ Spring Boot 애플리케이션을 AWS 환경에 배포하면서 네트워크와 
 * GitHub Actions
 * Docker Hub → EC2 자동 배포
 
-### MZ Project
-
-맛집 검색과 지도 기능을 구현한 4인 팀 웹 프로젝트입니다.
-
-* Spring MVC / MyBatis
-* Oracle Database
-* JSP / JSTL
-* Kakao Map API
-* AWS EC2 / RDS / S3
-* 팀장으로 일정 및 역할 관리
-
 ---
 
 ## What I'm working on
@@ -100,5 +100,5 @@ Spring Boot 애플리케이션을 AWS 환경에 배포하면서 네트워크와 
 
 ## Contact
 
-**Email**
+**Email**  
 [guswo1118@gmail.com](mailto:guswo1118@gmail.com)
