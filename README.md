@@ -1,104 +1,79 @@
-# 안녕하세요, 권현재입니다.
+# Hi there, I'm Hyunjae Kwon 👋
 
-Java / Spring 기반으로 백엔드 개발을 하고 있습니다.
-
-웹 개발 교육을 시작으로 팀 프로젝트와 개인 프로젝트를 진행했고,
-Spring Boot, DB, AWS, Docker 등을 직접 사용해보며 개발 경험을 쌓아왔습니다.
-
-최근에는 단순히 기능을 구현하는 데서 끝내기보다
-DB 구조, 인증, 배포 환경과 운영 과정에서 생길 수 있는 문제까지 같이 생각하며 프로젝트를 만들고 있습니다.
-
-**Portfolio**  
-https://hyunjaegit.github.io/portfoliopdf/
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://hyunjaegit.github.io/portfoliopdf/)
+[![Email](https://img.shields.io/badge/Email-guswo1118%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guswo1118@gmail.com)
 
 ---
 
-## Tech Stack
+### 💡 About Me
+I am a **Backend Developer** specializing in **Java & Spring Framework**. 
 
-**Backend**
-
-* Java 21
-* Spring Boot
-* Spring Framework
-* JPA / Hibernate
-* MyBatis
-
-**Database**
-
-* MySQL
-* Oracle Database
-
-**Infra / DevOps**
-
-* AWS (EC2, RDS, S3, VPC, IAM)
-* Docker
-* GitHub Actions
-
-**Frontend**
-
-* React
-* TypeScript
-* Vite
-* JSP / JSTL
+Beyond merely implementing business logic, I focus on building reliable applications by considering **database schema design**, **authentication architecture**, **cloud deployment**, and **operational edge cases**. I actively analyze and refactor existing codebases to improve performance and code quality.
 
 ---
 
-## Projects
+### 🛠 Tech Stack
 
-### [Aura3D](https://github.com/HyunJaeGit/Aura3D)
+#### Backend & Core
+![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=fluentd&logoColor=white)
 
-서버 상태를 주기적으로 확인하고, 상태 변화가 발생했을 때 Gemini API를 이용해 원인을 분석하는 서버 모니터링 프로젝트입니다.
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
-* Java 21 Virtual Threads 기반 서버 상태 확인
-* Spring Boot / JPA / MySQL
-* Gemini API 연동
-* 상태 변화 기반 AI 호출 제어
-* React Three Fiber 기반 3D 상태 표현
+#### DevOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS_(VPC,_EC2,_RDS,_S3,_IAM)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### [MZ Project](https://github.com/HyunJaeGit/MZproject)
-
-맛집 검색과 지도 기능을 구현한 4인 팀 웹 프로젝트입니다.
-
-* Spring MVC / MyBatis
-* Oracle Database
-* JSP / JSTL
-* Kakao Map API
-* AWS EC2 / RDS / S3
-* 팀장으로 일정 및 역할 관리
-
-### [Dokhak Master](https://github.com/HyunJaeGit/dokhakmaster)
-
-직접 등록한 문제로 모의고사를 만들고 CBT 응시와 오답 학습을 할 수 있도록 만든 개인 학습 서비스입니다.
-
-* Java 21 / Spring Boot 3.5
-* React / TypeScript
-* MySQL / JPA / Flyway
-* 서버 세션 기반 인증
-* CBT 응시 및 자동 채점
-* 오답노트 및 재시험 기능
-
-### [AWS CI/CD & Infrastructure](https://github.com/HyunJaeGit/aws-security)
-
-Spring Boot 애플리케이션을 AWS 환경에 배포하면서 네트워크와 CI/CD 구조를 구성한 프로젝트입니다.
-
-* AWS VPC / EC2 / RDS
-* Security Group 기반 접근 제어
-* Docker
-* GitHub Actions
-* Docker Hub → EC2 자동 배포
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## What I'm working on
+### 🚀 Projects
 
-현재는 기존 프로젝트를 다시 살펴보면서
-코드 구조, DB 설계, 인증, 배포 환경처럼 부족했던 부분을 계속 수정하고 있습니다.
+#### 📌 [Aura3D](https://github.com/HyunJaeGit)
+> **3D Server Health Monitoring System with AI Incident Analysis**
+* High-concurrency server monitoring powered by **Java 21 Virtual Threads**.
+* Automated root cause analysis during state changes using **Gemini API**.
+* Interactive **3D server dashboard** built with React Three Fiber.
+* **Tech:** `Java 21`, `Spring Boot`, `JPA`, `MySQL`, `Gemini API`, `React Three Fiber`
 
-새로운 기능을 추가하는 것뿐 아니라 기존에 만든 코드가 왜 그렇게 동작하는지 다시 확인하고 개선하는 과정도 같이 진행하고 있습니다.
+#### 📌 [Dokhak Master](https://github.com/HyunJaeGit)
+> **Custom Exam Creation & CBT Learning Platform**
+* Self-testing platform allowing users to generate custom mock exams and practice CBT quizzes.
+* Implemented automatic grading, incorrect answer notes, and re-test workflows.
+* Managed database migrations with Flyway and session-based authentication.
+* **Tech:** `Java 21`, `Spring Boot 3.5`, `MySQL`, `JPA`, `Flyway`, `React`, `TypeScript`
+
+#### 📌 [AWS CI/CD & Infrastructure Setup](https://github.com/HyunJaeGit)
+> **Automated Deployment Pipeline & Cloud Architecture**
+* Designed network architecture using **AWS VPC, Subnets, and Security Groups** for secure access control.
+* Built automated **CI/CD pipelines** using Docker Hub and GitHub Actions targeting EC2 instances.
+* **Tech:** `AWS (VPC, EC2, RDS)`, `Docker`, `GitHub Actions`
+
+#### 📌 [MZ Project](https://github.com/HyunJaeGit)
+> **Location-Based Restaurant Search Service** *(Team Lead / 4 Members)*
+* Led the team as project manager, handling schedule management and task delegation.
+* Integrated Kakao Map API for interactive location-based restaurant discovery.
+* **Tech:** `Spring MVC`, `MyBatis`, `Oracle DB`, `Kakao Map API`, `AWS (EC2, RDS, S3)`
 
 ---
 
-## Contact
+### 🌱 What I'm Focused On
+* **Refactoring & Code Quality:** Continuously auditing past projects to improve architectural patterns, database performance, and security practices.
+* **Deep-Dive Engineering:** Analyzing the underlying mechanics of backend tools and frameworks rather than just building surface-level features.
 
-**Email**  
-[guswo1118@gmail.com](mailto:guswo1118@gmail.com)
+---
+
+### 📫 Contact & Links
+* **Email:** [guswo1118@gmail.com](mailto:guswo1118@gmail.com)
+* **Portfolio:** [hyunjaegit.github.io/portfoliopdf](https://hyunjaegit.github.io/portfoliopdf/)
