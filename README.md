@@ -24,7 +24,6 @@ Beyond merely implementing business logic, I focus on building reliable applicat
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 #### DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS_(VPC,_EC2,_RDS,_S3,_IAM)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
